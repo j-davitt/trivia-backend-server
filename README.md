@@ -4,6 +4,8 @@
 
 Use `node index.js` to start the server.
 
+[Client](https://github.com/j-davitt/trivia-backend-client)
+
  Authors: Joe Davitt, Brandon Perard, Arienne Frey, Jonathan Staib
  
  ## Overview
