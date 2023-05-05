@@ -1,8 +1,8 @@
 # Terminal Trivia Trials - server
 
-This is a [group project](https://github.com/team-socket/Terminal-Trivia-Trials) I participated in at Code Fellows.
+This is a [group project](https://github.com/team-socket/Terminal-Trivia-Trials) I participated in at Code Fellows. It is a Command Line Only project.
 
-[Client link](https://github.com/j-davitt/trivia-backend-client)
+[Client Repo link](https://github.com/j-davitt/trivia-backend-client)
 
 Some of my personal contributions include:
 
