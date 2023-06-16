@@ -15,9 +15,9 @@ Some of my personal contributions include:
 
 ## STARTUP
 
-Use `node index.js` to start the server.
-
 Use `npm install` to install required node_modules.
+
+Use `node index.js` to start the server.
 
 ## Overview
 
